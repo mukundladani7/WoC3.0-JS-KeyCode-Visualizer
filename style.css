@@ -1,7 +1,7 @@
 table,th,tr,td{
     padding: 7px;
     border: 7px solid ;
-    border-bottom-color: lightsalmon;border-top-color: rgb(122, 255, 122);border-left-color: rgb(209, 218, 89);border-right-color:lightslategrey;
+    border-bottom-color: lightsalmon;border-top-color: rgb(199, 4, 199);border-left-color: rgb(200, 255, 0);border-right-color:rgb(0, 81, 161);
     border-spacing: 5px;
 }
 th{
