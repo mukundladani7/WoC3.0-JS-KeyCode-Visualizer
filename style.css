@@ -1,12 +1,27 @@
-table,th,tr,td{
-    padding: 7px;
-    border: 7px solid ;
-    border-bottom-color: lightsalmon;border-top-color: rgb(199, 4, 199);border-left-color: rgb(200, 255, 0);border-right-color:rgb(0, 81, 161);
-    border-spacing: 5px;
+table,
+th,
+tr,
+td {
+	padding: 7px;
+	border: 7px solid;
+	border-bottom-color: lightsalmon;
+	border-top-color: rgb(199, 4, 199);
+	border-left-color: rgb(200, 255, 0);
+	border-right-color: rgb(0, 81, 161);
+	border-spacing: 5px;
 }
-th{
-    font-family: "Potta One";background-color: rgb(147, 238, 192);font-weight: 700; color: mediumslateblue;
+th {
+	font-family: "Potta One";
+	background-color: rgb(147, 238, 192);
+	font-weight: 700;
+	color: mediumslateblue;
 }
-tr{
-    font-family:"Dancing Script";font-weight: bold;font-size: 7mm;background-color: rgb(180, 240, 240); padding: 10px; color:maroon; text-align: center;
+tr {
+	font-family: "Dancing Script";
+	font-weight: bold;
+	font-size: 7mm;
+	background-color: rgb(180, 240, 240);
+	padding: 10px;
+	color: maroon;
+	text-align: center;
 }
